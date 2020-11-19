@@ -1,2 +1,6 @@
 1) Creació del document
+
 3) modificació del document a master, sense merge branch1
+
+2) Modificar el text en branch1
+
